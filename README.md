@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zsoltardai
 - 👀 I’m interested in programing 👨🏽‍💻
-- 🌱 I’m currently learning Ukrainian 🇺🇦
 
 <!---
 zsoltardai/zsoltardai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
